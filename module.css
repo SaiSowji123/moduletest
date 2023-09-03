@@ -1,0 +1,2509 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+.Acciojob{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    border: 20px;
+}
+
+.courses{
+    font-size: large;
+    padding-left: 500px;
+}
+
+.Reviews{
+    font-size: large;
+}
+.Scholarship{
+    font-size: large;
+}
+.More{
+    font-size: large;
+}
+
+.Login{
+    color: #2f80ed;
+    border-color: #2f80ed;
+    width: 100px;
+    background-color: white;
+    font-style: oblique;
+}
+.horizantal{
+  font-size: large;
+  background-color: #2f80ed;
+  color: #fafafa;
+  font-style: italic;
+}
+
+
+body {
+  width: 144rem;
+}.landing-xU1 {
+  box-sizing: border-box;
+  padding-bottom: 358.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-xU1 .hero-section-x6d {
+  width: 100%;
+  height: 78.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .arrow-rbK {
+  width: 12.4907rem;
+  height: 10.145rem;
+  position: absolute;
+  left: 75.2rem;
+  top: 40.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM {
+  width: 71.1rem;
+  height: 30.8rem;
+  position: absolute;
+  left: 11rem;
+  top: 22.6rem;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 {
+  margin-bottom: 3.4rem;
+  width: 67.3rem;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 .frame-1000001696-oey {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 .frame-1000001696-oey .launch-your-career-with-our-9D3 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.075rem;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 .frame-1000001696-oey .full-stack-developer-courses-9km {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.075rem;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 .frame-1000001696-oey .full-stack-developer-courses-9km .full-stack-developer-courses-9km-sub-0 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.075rem;
+  font-style: italic;
+  color: #2f80ed;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 .frame-1000001696-oey .full-stack-developer-courses-9km .full-stack-developer-courses-9km-sub-1 {
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .hero-text-tH7 .curriculum-designed-and-taught-by-alumni-from-iits-leading-tech-companies-Fqj {
+  max-width: 42.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  letter-spacing: 0.036rem;
+  color: #595959;
+  font-family: ?????, 'Source Sans Pro';
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 {
+  box-sizing: border-box;
+  padding: 1.5rem 2.1rem 1.45rem 2rem;
+  width: 100%;
+  height: 7.7rem;
+  display: flex;
+  column-gap: 3.4rem;
+  align-items: center;
+  border: solid 0.1rem #e2e2e2;
+  box-shadow: 0 0.2rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-999-CPb {
+  margin-bottom: 0.05rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0.379rem 0.1rem 0rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1.3619rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-999-CPb .group-907-tnD {
+  margin-right: 1.0214rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-999-CPb .frame-997-bgd {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-999-CPb .frame-997-bgd .lakhs-wEh {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-999-CPb .frame-997-bgd .highest-salary-G25 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5499998728;
+  letter-spacing: 0.012rem;
+  color: #4f4f4f;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1002-Zms {
+  margin-bottom: 0.05rem;
+  box-sizing: border-box;
+  padding: 0.1rem 1.779rem 0.1rem 0rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1.3619rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1002-Zms .group-48097592-4Cq {
+  margin-right: 1.0214rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1002-Zms .frame-997-PF7 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1002-Zms .frame-997-PF7 .item-300-9EH {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1002-Zms .frame-997-PF7 .partner-companies-UXT {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5499998728;
+  letter-spacing: 0.012rem;
+  color: #4f4f4f;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-998-Nsj {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.05rem 1.279rem 0rem 0rem;
+  height: 4.45rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1.3619rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-998-Nsj .group-903-6Hw {
+  margin: 0rem 1.021rem 0.1rem 0rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-998-Nsj .frame-997-1fo {
+  width: 7.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-998-Nsj .frame-997-1fo .item-100-ZhK {
+  width: 5.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-998-Nsj .frame-997-1fo .job-guarantee-Fa9 {
+  width: 7.6rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 2.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5499998728;
+  letter-spacing: 0.012rem;
+  color: #4f4f4f;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1001-8P3 {
+  margin-bottom: 0.05rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0.789rem 0.1rem 0.589rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1.3619rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1001-8P3 .group-48097591-cBj {
+  margin-right: 1.0214rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1001-8P3 .frame-997-Kbw {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1001-8P3 .frame-997-Kbw .lpa-Gn5 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .hero-left-xeM .features-JZ7 .frame-1001-8P3 .frame-997-Kbw .average-salary-QNV {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5499998728;
+  letter-spacing: 0.012rem;
+  color: #4f4f4f;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq {
+  width: 60.2rem;
+  height: 61.232rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 16.9rem;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .shadow-gradient-xoK {
+  width: 60.2rem;
+  height: 61.232rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM {
+  box-sizing: border-box;
+  padding: 2.8rem 2.4rem 3.2rem 2.4rem;
+  width: 41.5rem;
+  height: 49.6rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 2.8rem;
+  row-gap: 2.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2.5rem 5.4rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001630-8bK {
+  margin: 0 5.4rem;
+  width: calc(100% - 10.8rem);
+  height: 15.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.start-attending-live-classes-for-free-RqK {
+  width: 22.7rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 1.6rem;
+  text-align: top;
+  font-size: 3.2rem;
+  letter-spacing: -0.048rem;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+ .live-lectures-assignments-curated-by-top-tech-proffesionals-Ju7 {
+  width: 25.9rem;
+  height: 4.8rem;
+  text-align: bottom;
+  font-size: 1.6rem;
+  color: #818d9d;
+  font-family: ?????, 'Source Sans Pro';
+
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H {
+  margin: 0 0.05rem;
+  width: calc(100% - 0.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H .frame-1000001623-Vyb {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 1.4rem 17.7rem 1.4rem 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H .frame-1000001623-Vyb .frame-RMT {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H .frame-1000001623-Vyb .samvrant-samantaray-9YM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2b2f34;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H .frame-1000001624-SnM {
+  box-sizing: border-box;
+  padding: 1.4rem 22.6rem 1.4rem 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H .frame-1000001624-SnM .frame-xEu {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001625-N8H .frame-1000001624-SnM .phone-number-HHB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8293a9;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR .frame-1000001622-7n1 {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 1.4rem 8.4rem 1.4rem 9.4rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(276.97deg, #992fed -0%, #2f80ed 100%);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR .frame-1000001622-7n1 .apply-now-for-free-Dq3 {
+  margin-right: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffffff;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1001-8P3{
+    padding-left: 50px;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR .frame-1000001622-7n1 .frame-Y6d {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR .by-clicking-apply-now-you-agree-to-our-terms-conditions-Cws {
+  max-width: 28.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #818d9d;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR .by-clicking-apply-now-you-agree-to-our-terms-conditions-Cws .by-clicking-apply-now-you-agree-to-our-terms-conditions-Cws-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #818d9d;
+  font-family: ?????, 'Source Sans Pro';
+}
+.landing-xU1 .hero-section-x6d .cta-form-eGq .frame-VYM .frame-1000001628-NpR .by-clicking-apply-now-you-agree-to-our-terms-conditions-Cws .by-clicking-apply-now-you-agree-to-our-terms-conditions-Cws-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2f80ed;
+  font-family: ?????, 'Source Sans Pro';
+}
+.landing-xU1 .auto-group-7vdt-2xq {
+  width: 100%;
+  height: 86.4rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR {
+  box-sizing: border-box;
+  padding: 8rem 21.1rem 7.8rem 21.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebf7ff;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .title-3sw {
+  margin: 0rem 29.8rem 4.5rem 29.8rem;
+  width: calc(100% - 59.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .title-3sw .learn-full-stack-web-development-xV7 {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.16rem;
+  font-style: italic;
+  text-transform: uppercase;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .title-3sw .our-courses-RtV {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.054rem;
+  color: #2f80ed;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq {
+  width: 100%;
+  height: 57.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 0rem 3.6rem 2.4rem 3.6rem;
+  width: 49.8rem;
+  height: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #2f80ed;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .tag-Le5 {
+  margin: 0rem 9.8rem 1.7rem 9.8rem;
+  width: calc(100% - 19.6rem);
+  height: 2.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #2f80ed;
+  box-sizing: border-box;
+  background-color: #2f80ed;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM {
+  margin: 0rem 7.05rem 3.8rem 6.55rem;
+  width: calc(100% - 13.6rem);
+  row-gap: 1.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .frame-1000001918-SKj {
+  margin: 0rem 6.5rem 0rem 7.3rem;
+  box-sizing: border-box;
+  padding-left: 0.5398rem;
+  width: calc(100% - 13.8rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .frame-1000001918-SKj .sapling-icon-Xc5 {
+  margin: 0.18rem 1.509rem 0rem 0rem;
+  width: 2.3516rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .frame-1000001918-SKj .beginner-Dzh {
+  margin-bottom: 0.5rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .frame-1000002028-iAm {
+  margin-left: 0.6rem;
+  width: calc(100% - 0.6rem);
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .frame-1000002028-iAm .frame-1000001909-DtD {
+  margin-right: 1.2rem;
+  width: 14.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #1c77b0;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0f3ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .frame-1000002028-iAm .frame-1000001919-4P3 {
+  width: 12.4rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #1c77b0;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0f3ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .title-YEM .for-beginners-starting-on-their-coding-journey-X1j {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #565656;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF {
+  margin: 0rem 0.1rem 4rem 0rem;
+  width: 42.5rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001928-KyB {
+  margin: 0rem 10.4rem 1.8rem 0rem;
+  width: calc(100% - 10.4rem);
+  height: 2.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001928-KyB .frame-1000001923-qgd {
+  margin-right: 8.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001928-KyB .frame-1000001923-qgd .frame-NRf {
+  margin-right: 0.8rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001928-KyB .frame-1000001923-qgd .placement-starts-JKK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001928-KyB .in-4-months-cau {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .line-2-w7P {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001927-4Su {
+  margin: 0rem 2.2rem 1.8rem 0rem;
+  width: calc(100% - 2.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001927-4Su .frame-1000001922-n81 {
+  margin: 0rem 13.6rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0rem 0.084rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001927-4Su .frame-1000001922-n81 .mdi-graduation-cap-outline-4LR {
+  margin: 0rem 0.883rem 0.5rem 0rem;
+  width: 1.8333rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001927-4Su .frame-1000001922-n81 .eligibility-xAu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001927-4Su .final-year-or-graduates-students-all-degrees-f5K {
+  max-width: 17.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .line-3-x4R {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001930-gm7 {
+  margin: 0rem 11.5rem 1.5rem 0rem;
+  width: calc(100% - 11.5rem);
+  height: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001930-gm7 .frame-1000001833-BC5 {
+  margin-right: 14.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001930-gm7 .frame-1000001833-BC5 .frame-ixh {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001930-gm7 .frame-1000001833-BC5 .duration-TfP {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001930-gm7 .months-MVs {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .line-5-UqP {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001932-cgh {
+  margin: 0rem 11.4rem 1.5rem 0rem;
+  width: calc(100% - 11.4rem);
+  height: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001932-cgh .frame-1000001833-Kb7 {
+  margin-right: 12.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001932-cgh .frame-1000001833-Kb7 .frame-4Yh {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001932-cgh .frame-1000001833-Kb7 .daily-effort-nzV {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001932-cgh .hours-required-u3X {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .line-4-dkD {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001931-NC1 {
+  margin-right: 8.2rem;
+  width: calc(100% - 8.2rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001931-NC1 .frame-1000001923-hVB {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0rem 0.504rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001931-NC1 .frame-1000001923-hVB .material-symbols-skip-next-outline-QuP {
+  margin: 0rem 1.304rem 0.5rem 0rem;
+  width: 1.1917rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001931-NC1 .frame-1000001923-hVB .next-batch-on-XDK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .details-DfF .frame-1000001931-NC1 .th-dec-2022-F9K {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 {
+  width: 100%;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 .cta-button-hn1 {
+  margin-right: 1.3rem;
+  box-sizing: border-box;
+  padding: 1.4rem 4.7rem 1.4rem 4.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2f80ed;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 .cta-button-hn1 .frame-DEZ {
+  margin-right: 1rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 .cta-button-hn1 .brochure-wwF {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #2f80ed;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 .cta-button-3UV {
+  box-sizing: border-box;
+  padding: 1.4rem 4.05rem 1.4rem 5.05rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #2f80ed;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 .cta-button-3UV .placement-report-Zxd {
+  margin-right: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffffff;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .sapling-card-4Rf .frame-1000002027-An5 .cta-button-3UV .frame-5g5 {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK {
+  box-sizing: border-box;
+  padding: 3.1rem 3.6rem 2.4rem 3.6rem;
+  width: 49.8rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e2e2e2;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM {
+  margin: 0rem 6.7rem 3.8rem 6.2rem;
+  width: calc(100% - 12.9rem);
+  row-gap: 1.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .frame-1000001918-Zjf {
+  margin: 0rem 4.35rem 0rem 5.15rem;
+  width: calc(100% - 9.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .frame-1000001918-Zjf .frame-fGu {
+  margin-right: 0.8rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .frame-1000001918-Zjf .intermediate-auf {
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .frame-1000002029-Jqf {
+  margin: 0rem 0.25rem 0rem 0.75rem;
+  width: calc(100% - 1rem);
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .frame-1000002029-Jqf .frame-1000001909-Qth {
+  margin-right: 1.2rem;
+  width: 15.1rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #955400;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffedd7;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .frame-1000002029-Jqf .frame-1000001919-V9T {
+  width: 12.4rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #955400;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffedd7;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .title-raM .for-learners-with-good-aptitude-logical-reasoning-9Uu {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #565656;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw {
+  margin: 0rem 0.1rem 4rem 0rem;
+  width: 42.5rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001928-Z2q {
+  margin: 0rem 10.4rem 1.8rem 0rem;
+  width: calc(100% - 10.4rem);
+  height: 2.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001928-Z2q .frame-1000001923-U9o {
+  margin-right: 8.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001928-Z2q .frame-1000001923-U9o .frame-D7P {
+  margin-right: 0.8rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001928-Z2q .frame-1000001923-U9o .placement-starts-kND {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001928-Z2q .in-6-months-3s7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .line-2-zGZ {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001927-XGV {
+  margin: 0rem 2.9rem 1.8rem 0rem;
+  width: calc(100% - 2.9rem);
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001927-XGV .frame-1000001922-SeM {
+  margin: 0rem 13.6rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0rem 0.084rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001927-XGV .frame-1000001922-SeM .mdi-graduation-cap-outline-YhP {
+  margin: 0rem 0.883rem 0.5rem 0rem;
+  width: 1.8333rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001927-XGV .frame-1000001922-SeM .eligibility-3u3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001927-XGV .batch-students-all-degrees-NgR {
+  max-width: 16.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .line-3-66d {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001930-dMT {
+  margin: 0rem 11.5rem 1.5rem 0rem;
+  width: calc(100% - 11.5rem);
+  height: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001930-dMT .frame-1000001833-YDX {
+  margin-right: 14.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001930-dMT .frame-1000001833-YDX .frame-gad {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001930-dMT .frame-1000001833-YDX .duration-ofF {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001930-dMT .months-Jc1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .line-5-RAq {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001932-kU1 {
+  margin: 0rem 10.4rem 1.5rem 0rem;
+  width: calc(100% - 10.4rem);
+  height: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001932-kU1 .frame-1000001833-sHj {
+  margin-right: 12.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001932-kU1 .frame-1000001833-sHj .frame-DMb {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001932-kU1 .frame-1000001833-sHj .daily-effort-Yem {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001932-kU1 .hours-required-rQZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .line-4-nJD {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001931-vQR {
+  margin-right: 8.2rem;
+  width: calc(100% - 8.2rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001931-vQR .frame-1000001923-3jw {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0rem 0.504rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001931-vQR .frame-1000001923-3jw .material-symbols-skip-next-outline-xM7 {
+  margin: 0rem 1.304rem 0.5rem 0rem;
+  width: 1.1917rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001931-vQR .frame-1000001923-3jw .next-batch-on-qvh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .details-FXw .frame-1000001931-vQR .th-dec-2022-Zbo {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR {
+  width: 100%;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR .cta-button-EC9 {
+  margin-right: 1.3rem;
+  box-sizing: border-box;
+  padding: 1.4rem 4.7rem 1.4rem 4.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2f80ed;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR .cta-button-EC9 .frame-9K7 {
+  margin-right: 1rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR .cta-button-EC9 .brochure-tGh {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #2f80ed;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR .cta-button-yow {
+  box-sizing: border-box;
+  padding: 1.4rem 4.05rem 1.4rem 5.05rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #2f80ed;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR .cta-button-yow .placement-report-VnH {
+  margin-right: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffffff;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-7vdt-2xq .course-we-offer-mvR .course-cards-XAq .pioneer-card-kXK .frame-1000002027-ggR .cta-button-yow .frame-21X {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 {
+  box-sizing: border-box;
+  padding: 9.6rem 10.864rem 6.9rem 11.698rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .title-Yty {
+  margin: 0rem 35.986rem 5.5rem 35.152rem;
+  width: calc(100% - 71.1377rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .title-Yty .over-300-hiring-partners-U1w {
+  margin-bottom: 0.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.128rem;
+  font-style: italic;
+  text-transform: uppercase;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .title-Yty .frame-1000001931-mFw {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .title-Yty .frame-1000001931-mFw .top-startups-mncs-hire-software-engineer-iS5 {
+  margin-bottom: 0.8rem;
+  max-width: 50.3rem;
+  text-align: center;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.063rem;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .title-Yty .frame-1000001931-mFw .top-startups-mncs-hire-software-engineer-iS5 .top-startups-mncs-hire-software-engineer-iS5-sub-0 {
+}
+.landing-xU1 .companies-s29 .title-Yty .frame-1000001931-mFw .top-startups-mncs-hire-software-engineer-iS5 .top-startups-mncs-hire-software-engineer-iS5-sub-1 {
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.063rem;
+  font-style: italic;
+  color: #2f80ed;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.landing-xU1 .companies-s29 .title-Yty .frame-1000001931-mFw .from-acciojob-upto-41-lakhs-9fo {
+  margin-right: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  letter-spacing: 0.036rem;
+  color: #595959;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX {
+  margin-bottom: 5.2195rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD {
+  margin: 0rem 0rem 6.648rem 0.102rem;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-djrj-u2h {
+  box-sizing: border-box;
+  padding: 0.126rem 7.4rem 0.126rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-djrj-u2h .image-23-DZB {
+  margin-right: 7.4rem;
+  width: 14.8688rem;
+  height: 3.2607rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-djrj-u2h .image-38-9Bw {
+  width: 13.4694rem;
+  height: 4.5481rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .image-23-sdj {
+  width: 16.8rem;
+  height: 4.8rem;
+  position: relative;
+  background-size: 98.81% 94.318%;
+  background-position: 0.107rem 0.234rem;
+  background-image: url('../assets/image-23-XJ1.png');
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-e3sr-wtV {
+  box-sizing: border-box;
+  padding: 0.563rem 0rem 0.563rem 7.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-e3sr-wtV .image-53-4TK {
+  margin-right: 7.4rem;
+  width: 12.9446rem;
+  height: 2.9738rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-e3sr-wtV .image-23-Niu {
+  margin: 0rem 7.4rem 0rem 0rem;
+  width: 14.8688rem;
+  height: 3.2607rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-635-aWD .auto-group-e3sr-wtV .image-53-5tD {
+  width: 10.6706rem;
+  height: 3.6735rem;
+  position: relative;
+  background-size: 100% 93.733%;
+  background-position: -0.0744rem 0.1151rem;
+  background-image: url('../assets/image-53.png');
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 {
+  margin: 0rem 0rem 6.548rem 0.102rem;
+  height: 5.5039rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .image-23-5Wq {
+  margin-right: 5.9845rem;
+  width: 14.869rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .image-38-ohj {
+  width: 16.3rem;
+  height: 5.5039rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .auto-group-jyzh-wZ3 {
+  box-sizing: border-box;
+  padding: 0.439rem 0rem 0.439rem 5.679rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .auto-group-jyzh-wZ3 .image-53-TXP {
+  margin-right: 6.7166rem;
+  width: 17.4118rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .auto-group-jyzh-wZ3 .image-38-aru {
+  margin-right: 8.907rem;
+  width: 13.7rem;
+  height: 4.626rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .auto-group-jyzh-wZ3 .image-53-7bw {
+  margin-right: 8.5719rem;
+  width: 11.1rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-644-xx1 .auto-group-jyzh-wZ3 .image-23-ebs {
+  width: 12.0962rem;
+  height: 3.7rem;
+  position: relative;
+  background-size: 100% 87.861%;
+  background-position: -0.0956rem 0.2246rem;
+  background-image: url('../assets/image-23-jrh.png');
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT .image-23-tFK {
+  margin: 0.119rem 6.982rem 0rem 0rem;
+  width: 15.0733rem;
+  height: 3.6183rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT .image-38-BVK {
+  margin: 0.119rem 9.25rem 0rem 0rem;
+  width: 14.1rem;
+  height: 4.761rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT .image-23-hCm {
+  margin: 0.119rem 9.038rem 0rem 0rem;
+  width: 12.4691rem;
+  height: 3.2964rem;
+  position: relative;
+  background-size: 97.701% 90.543%;
+  background-position: 0.1422rem 0.1559rem;
+  background-image: url('../assets/image-23-gph.png');
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT .image-55-miR {
+  margin: 0.119rem 9.339rem 0rem 0rem;
+  width: 14rem;
+  height: 3.0702rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT .image-54-6Eu {
+  margin: 0.119rem 9.867rem 0rem 0rem;
+  width: 9.9355rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 101.817%;
+  background-position: 0 0.0282rem;
+  background-image: url('../assets/image-54.png');
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .companies-logo-qoX .frame-672-YBT .image-57-y3o {
+  margin-bottom: 1.9805rem;
+  width: 11.2778rem;
+  height: 2.9rem;
+  position: relative;
+  background-size: 97.701% 230.978%;
+  background-position: 0.1286rem -1.8361rem;
+  background-image: url('../assets/image-57.png');
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .cta-button-F1K {
+  margin: 0rem 47.336rem 0rem 46.502rem;
+  width: calc(100% - 93.8377rem);
+  height: 5.5rem;
+  cursor: pointer;
+  position: relative;
+  background-color: #2f80ed;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .companies-s29 .cta-button-F1K .placement-report-xRX {
+  width: 15.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5.65rem;
+  top: 1.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffffff;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .companies-s29 .cta-button-F1K .frame-3C5 {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 20.75rem;
+  top: 1.65rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-xU1 .student-wall-7xd {
+  margin-bottom: 48.7rem;
+  box-sizing: border-box;
+  padding: 9.6rem 10.7rem 13.8rem 10.7rem;
+  width: 100%;
+  height: 97.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .title-xiM {
+  margin: 0rem 40rem 5.3rem 40rem;
+  width: calc(100% - 80rem);
+  height: 9.5rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .title-xiM .frame-1000001931-sKX {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .title-xiM .frame-1000001931-sKX .acciojob-wall-of-love-2CR {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.063rem;
+  font-style: italic;
+  color: #2b2f34;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .title-xiM .frame-1000001931-sKX .our-alumni-say-it-best-Jvd {
+  margin-right: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  letter-spacing: 0.036rem;
+  color: #595959;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim {
+  width: 100%;
+  height: 59rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj {
+  margin-right: 1.5rem;
+  width: 39.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #d6d6d6;
+  box-shadow: 0.5rem 0.9rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw .frame-1000001728-skm {
+  margin-right: 4.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw .frame-1000001728-skm .ellipse-42-DJq {
+  margin-right: 1.3rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-42-bg-HK7.png');
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw .frame-1000001728-skm .frame-1000001727-79K {
+  margin: 0.35rem 0;
+  width: 20.1rem;
+  height: calc(100% - 0.7rem);
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw .frame-1000001728-skm .frame-1000001727-79K .virat-kohli-1kV {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw .frame-1000001728-skm .frame-1000001727-79K .sde-ii-at-indian-cricket-board-9Lu {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .auto-group-w3wh-LVw .linkedin-4Ts {
+  margin-top: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .frame-1000001729-bYM .my-life-changed-when-i-became-a-part-of-the-acciojob-family-before-that-i-was-not-able-to-score-any-centuries-as-soon-as-i-joined-accio-i-hit-a-century-against-afganistan-BHb {
+  max-width: 30.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-ssF .jun-14-2022-cNu {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #d6d6d6;
+  box-shadow: 0.5rem 0.9rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ .frame-1000001728-G65 {
+  margin-right: 4.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ .frame-1000001728-G65 .ellipse-42-Byj {
+  margin-right: 1.3rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-42-bg.png');
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ .frame-1000001728-G65 .frame-1000001727-hBP {
+  margin: 0.35rem 0;
+  width: 20.1rem;
+  height: calc(100% - 0.7rem);
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ .frame-1000001728-G65 .frame-1000001727-hBP .virat-kohli-DQd {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ .frame-1000001728-G65 .frame-1000001727-hBP .sde-ii-at-indian-cricket-board-k9f {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .auto-group-jp9f-8kZ .linkedin-Xpd {
+  margin-top: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .frame-1000001729-bVj .my-life-changed-when-i-became-a-part-of-the-acciojob-family-before-that-i-was-not-able-to-score-any-centuries-as-soon-as-i-joined-accio-i-hit-a-century-against-afganistan-e8Z {
+  max-width: 30.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-u9fo-kXj .new-student-wall-cards-UR7 .jun-14-2022-HhK {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj {
+  margin-right: 1.7rem;
+  width: 39.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2.3rem 2.4rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #d6d6d6;
+  box-shadow: 0.5rem 0.9rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM {
+  margin-bottom: 3.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq .frame-1000001728-1v9 {
+  margin-right: 4.75rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq .frame-1000001728-1v9 .ellipse-42-ZAy {
+  margin-right: 1.3rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-42-bg-5vy.png');
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq .frame-1000001728-1v9 .frame-1000001727-TXF {
+  margin: 0.35rem 0;
+  width: 19.95rem;
+  height: calc(100% - 0.7rem);
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq .frame-1000001728-1v9 .frame-1000001727-TXF .virat-kohli-ykV {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq .frame-1000001728-1v9 .frame-1000001727-TXF .sde-ii-at-indian-cricket-board-7Lu {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .auto-group-gn4h-Jkq .quora-RsP {
+  margin-top: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .frame-1000001729-ZYM .my-life-changed-when-i-became-a-part-of-the-acciojob-family-before-that-i-was-not-able-to-score-any-centuries-as-soon-as-i-joined-accio-i-hit-a-century-against-afganistan-kem {
+  max-width: 35.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-s9j .jun-14-2022-1ah {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #d6d6d6;
+  box-shadow: 0.5rem 0.9rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV .frame-1000001728-fYm {
+  margin-right: 7.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV .frame-1000001728-fYm .ellipse-42-QWM {
+  margin-right: 1.3rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-42-bg-pmw.png');
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV .frame-1000001728-fYm .frame-1000001727-Jrd {
+  margin: 0.35rem 0;
+  width: 16.9rem;
+  height: calc(100% - 0.7rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV .frame-1000001728-fYm .frame-1000001727-Jrd .virat-kohli-EEV {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV .frame-1000001728-fYm .frame-1000001727-Jrd .sde-ii-at-indian-cricket-board-kyX {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .auto-group-nb29-LWV .linkedin-5F7 {
+  margin-top: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .frame-1000001729-nzm .my-life-changed-when-i-became-a-part-of-the-acciojob-family-before-that-i-was-not-able-to-score-any-centuries-as-soon-as-i-joined-accio-i-hit-a-century-against-afganistan-bUM {
+  max-width: 32.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-heup-9Dj .new-student-wall-cards-54m .jun-14-2022-exR {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR {
+  width: 39.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #d6d6d6;
+  box-shadow: 0.5rem 0.9rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh .frame-1000001728-tVP {
+  margin-right: 4.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh .frame-1000001728-tVP .ellipse-42-dhs {
+  margin-right: 1.3rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-42-bg-6JV.png');
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh .frame-1000001728-tVP .frame-1000001727-XoF {
+  margin: 0.35rem 0;
+  width: 20.55rem;
+  height: calc(100% - 0.7rem);
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh .frame-1000001728-tVP .frame-1000001727-XoF .virat-kohli-ess {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh .frame-1000001728-tVP .frame-1000001727-XoF .sde-ii-at-indian-cricket-board-PKf {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .auto-group-58rv-9nh .linkedin-W9P {
+  margin-top: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .frame-1000001729-1Rb .my-life-changed-when-i-became-a-part-of-the-acciojob-family-before-that-i-was-not-able-to-score-any-centuries-as-soon-as-i-joined-accio-i-hit-a-century-against-afganistan-2dX {
+  max-width: 30.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-529 .jun-14-2022-H3f {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #d6d6d6;
+  box-shadow: 0.5rem 0.9rem 4rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf .frame-1000001728-n8q {
+  margin-right: 6.05rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf .frame-1000001728-n8q .ellipse-42-vVw {
+  margin-right: 1.3rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-42-bg-6GR.png');
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf .frame-1000001728-n8q .frame-1000001727-EWd {
+  margin: 0.35rem 0;
+  width: 18.65rem;
+  height: calc(100% - 0.7rem);
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf .frame-1000001728-n8q .frame-1000001727-EWd .virat-kohli-yDK {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf .frame-1000001728-n8q .frame-1000001727-EWd .sde-ii-at-indian-cricket-board-JmP {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .auto-group-5jrh-Sqf .linkedin-2hP {
+  margin-top: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .frame-1000001729-VvR .my-life-changed-when-i-became-a-part-of-the-acciojob-family-before-that-i-was-not-able-to-score-any-centuries-as-soon-as-i-joined-accio-i-hit-a-century-against-afganistan-Li5 {
+  max-width: 30.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-xU1 .student-wall-7xd .frame-1000001984-241 .student-wall-cards-Qim .auto-group-1djx-XWR .new-student-wall-cards-MpD .jun-14-2022-13X {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #676767;
+  font-family: ?????, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-xU1 .auto-group-ifar-3ku {
+  width: 100%;
+  height: 87.4rem;
+  flex-shrink: 0;
+}
+
+.maersk{
+    width:200px;
+    padding-right: 100px;
+}
+
+.paytm{
+    width:100px;
+}
+
+.Bharatpe{
+    width:180px;
+    padding-right: 80px;
+}
+
+.walmart{
+    width:200px;
+}
+
+.amazon{
+    width:200px;
+}
+
+.thoughtworks{
+    width:200px;
+    padding-right: 100px;
+}
+
+.Tatadigital{
+    width:200px;
+    padding-right:80px ;
+    padding-left: 0px;
+}
+.innovacare{
+    width:200px;
+}
+
+.freecharge{
+    width:200px;
+    padding-right: 100px;
+}
+
+.publicissapient{
+    width:100px;
+  
+
+}
+
+.HSBC{
+    width:150px;
+    
+}
+
+.miniorange{
+    width:200px;
+    padding-right: 50px;
+}
+
+.payglocal{
+    width:200px;
+    padding-right: 50px;
+}
+
+.mystifly{
+    width:150px;
+    padding-right: 20px;
+}
+
+.cadence{
+    width:100px;
+}
+
+.park+{
+    width:50px;
+    padding-left:2000px;
+}
+
+.converj{
+    width:150px;
+}
+
+.Makemytrip{
+    width:150px;
+    padding-right: 100px;
+}
+
+*{
+    margin:0px
+}
+
+.auto-group-djrj-u2h{
+    justify-content: space-evenly;
+}
+
+.frame-644-xx1{
+    justify-content: space-evenly;
+    padding-left: 90px;
+}
+
+.fa-solidfa-chevron-right{
+    color: aliceblue;
+}
+
+
+
+
+
+
